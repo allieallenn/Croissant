@@ -1,3 +1,11 @@
 h1 {
     font-size: 96px;
 }
+body {
+    background-color: antiquewhite;
+}
+a {
+    text-align: center ;
+    text-decoration: none ;
+    color: black ;
+}
