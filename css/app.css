@@ -1,11 +1,27 @@
 h1 {
-    font-size: 96px;
+    font-size: 96px !important;
+    text-align: center;
 }
 body {
-    background-color: antiquewhite;
+    background-color: antiquewhite !important;
 }
-a {
-    text-align: center ;
-    text-decoration: none ;
-    color: black ;
+p {
+    text-align: center;
+    font-size: 30px;
+}
+img {
+    max-width: 100%;
+}
+footer {
+    text-align: center;
+}
+footer a {
+    margin: 20px;
+    border-radius: 4px;
+    padding: 20px 15px;
+    display: flex;
+    justify-content: space-evenly;
+    color: black !important;
+    font-size: 25px;
+    border: 3px solid black;
 }
